@@ -1,0 +1,14 @@
+- Theory reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+- In-Short:
+  - function + required data
+  - function + lexical scope/environment
+  - function + surronding state
+- Usage of Closures:
+  - Module Design Pattern
+  - Currying
+  - Functions like once
+  - memorize
+  - maintaing state in async world
+  - setTimeouts
+  - Iterators
+  - any many more...
