@@ -1,3 +1,11 @@
+// Theory reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+/* In-Short: 
+    function + required data
+    or
+    function + lexical scope/environment
+    or
+    function + surronding state
+*/
 function createCounter() {
   let count = 0;
 
